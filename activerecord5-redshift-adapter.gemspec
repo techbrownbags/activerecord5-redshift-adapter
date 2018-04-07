@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
 
   s.author = ['Nancy Foen', 'Minero Aoki']
   s.email = 'nancy.foen@grandrounds.com'
-  s.homepage = 'https://github.com/ConsultingMD/activerecord5-redshift-adapter'
+  s.homepage = 'https://github.com/techbrownbags/activerecord5-redshift-adapter'
 
   s.files = Dir.glob(['LICENSE', 'README.md', 'lib/**/*.rb'])
   s.require_path = 'lib'
